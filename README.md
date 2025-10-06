@@ -17,8 +17,8 @@ Here are some ideas to get you started:
   <h1 align="center">Hi there👋, I'm Adam, a self-taught student from Hungary</h1>
   
   <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ipowi01&show_icons=true&theme=radical" width="46%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipowi01&layout=compact&theme=radical" width="30%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ipowi01&show_icons=true&theme=dark" width="46%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipowi01&layout=compact&theme=dark&langs_count=5" width="41%">
 </p>
 
   - I'm currently working on an economy simulator in C++, which I plan to rewrite in Rust later.
