@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 </p>
 
   - I'm currently working on an economy simulator in C++, which I plan to rewrite in Rust later.
-  - I'm currently learning advanced C++ concepts, and I'll dive deeper into Rust after mastering C++.
+  - Also working on a toy language compiled back to C, for which I will try to use Rust mostly.
+  - I'm currently learning intermediate to advanced-ish C++ concepts (smart pointers, lazy evaluation and more functional approaches with the ranges library and via algorithms) and I'll dive deeper into Rust after mastering C++.
 
 
 <table align="center">
